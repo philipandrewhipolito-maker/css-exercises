@@ -4,11 +4,11 @@
   font-size: 28px;
 }
 
-.inverted {
+inverted {
   background-color: black;
   color: white;
 }
 
-.fancy {
+fancy {
   background-color: yellow;
 }
